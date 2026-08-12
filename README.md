@@ -1,4 +1,4 @@
-### Aanya Shah &nbsp;<sub>machine learning · agentic engineering · trustworthy AI</sub>
+### Aanya Shah
 
 CS @ UIUC. I build machine learning systems and work to make them trustworthy
 

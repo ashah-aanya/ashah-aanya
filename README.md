@@ -1,6 +1,6 @@
 ### Aanya Shah &nbsp;<sub>machine learning · agentic engineering · trustworthy AI</sub>
 
-CS @ UIUC. I build machine learning systems and work to make them trustworthy, equally energized by deep technical problems and by systems that actually ship.
+CS @ UIUC. I build machine learning systems and work to make them trustworthy
 
 - **[LifeChapters](https://ashah-aanya.github.io/#work)** - an agentic pipeline that turns a messy camera roll into a coherent photobook: face recognition, VLM captioning, and LLM assembly, validated by an LLM-judge
 - **[RL options-trading agent](https://ashah-aanya.github.io/#work)** - a PPO policy trained in a custom Gymnasium environment, executing and monitoring trades live

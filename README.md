@@ -1,6 +1,6 @@
 ### Aanya Shah
 
-CS @ UIUC. I build machine learning systems and work to make them trustworthy
+CS @ UIUC. I build AI/ML systems and work to make them trustworthy.
 
 Featured Work:
 

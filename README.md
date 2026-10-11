@@ -6,7 +6,7 @@ Featured Work:
 
 - **LifeChapters**: an agentic pipeline that turns a messy camera roll into a coherent photobook
 - **Trading Pipeline**: a trading pipeline for autonomous options execution
-- **[Re-prompting pipeline](https://github.com/aimonlabs/aimon-python-sdk/tree/main/aimon/reprompting_api)** at AIMon: automated model-agnostic re-prompting API improving LLM groundedness by 22%, productized and open-sourced with a [writeup](https://ashah-aanya.github.io/re-prompting.html)
+- **[Re-prompting pipeline](https://github.com/aimonlabs/aimon-python-sdk/tree/main/aimon/reprompting_api)** at AIMon: automated model-agnostic re-prompting API improving LLM groundedness by 22%, productized and open-sourced with a HackerNews [post](https://ashah-aanya.github.io/re-prompting.html)
 
 [`website`](https://ashah-aanya.github.io) [`email`](mailto:foraanyas@gmail.com) [`linkedin`](https://linkedin.com/in/foraanyas) [`studio`](https://ashah-aanya.github.io/art.html)
 
